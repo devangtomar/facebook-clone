@@ -1,114 +1,49 @@
+<h1 align="center">
+  Facebook Clone
+</h1>
+
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+  <img src="https://img.shields.io/github/license/devangtomar/facebook-clone" alt="License">
+  <img src="https://img.shields.io/github/issues/devangtomar/facebook-clone" alt="Issues">
+  <img src="https://img.shields.io/github/stars/devangtomar/facebook-clone" alt="Stars">
+  <img src="https://img.shields.io/github/forks/devangtomar/facebook-clone" alt="Forks">
 </p>
 
-<h3 align="center">Project Title</h3>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
----
-
-<p align="center"> Few lines describing your project.
-    <br> 
+<p align="center">
+  This repository was created for learning purposes and to create a Facebook clone using PHP.
 </p>
 
-## 📝 Table of Contents
+## 🚀 Getting Started
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+To get started with this project, you will need to have PHP and a web server installed on your machine.
 
-## 🧐 About <a name = "about"></a>
+You can download PHP from the [official website](https://www.php.net/downloads) and install it on your machine.
 
-Write about 1-2 paragraphs describing the purpose of your project.
+After installing PHP, you can clone this repository using the following command:
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+git clone https://github.com/devangtomar/facebook-clone.git
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
+Then, navigate to the project directory and start your web server.
 
-What things you need to install the software and how to install them.
+## 📄 Usage
 
-```
-Give examples
-```
+This project contains the following features:
 
-### Installing
+- User authentication and registration
+- Profile page for each user
+- Create, update, and delete posts
+- Commenting and liking posts
+- Searching for users
 
-A step by step series of examples that tell you how to get a development env running.
+To run the project, open your web browser and go to `http://localhost:<port>/index.php`, where `<port>` is the port number for your web server.
 
-Say what the step will be
+## 📝 Contributing
 
-```
-Give the example
-```
+If you would like to contribute to this repository, please create an issue or submit a pull request. We welcome contributions of all kinds, from bug fixes to new features.
 
-And repeat
+Before contributing, please make sure to read our [code of conduct](CODE_OF_CONDUCT.md) and [contribution guidelines](CONTRIBUTING.md).
 
-```
-until finished
-```
+## 📖 License
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
